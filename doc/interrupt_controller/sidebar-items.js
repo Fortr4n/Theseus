@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"enum":["InterruptDestination"],"mod":["arch"],"trait":["LocalInterruptControllerApi","SystemInterruptControllerApi"],"type":["InterruptNumber"]};
